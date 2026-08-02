@@ -1,2 +1,5 @@
-# alt_public
-Скрипты для Alt Linux
+Скрипты для установки на Alt Linux:
+
+- Gowin IDE (Gowin EDA)
+- Esspressif ESP IDF
+- Epson L8050
